@@ -1,4 +1,10 @@
-![LangChain Academy](https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/66e9eba1020525eea7873f96_LCA-big-green%20(2).svg)
+## Introduction
+
+This repository is a fork of [this LangChain repository](https://github.com/langchain-ai/langchain-academy). This repository is complementary to the "[Foundation: Introduction to LangGraph - Python](https://academy.langchain.com/courses/intro-to-langgraph)" course made available in the LangChain Academy.
+
+This fork of the repository includes the trials/experiments I have performed while following along the course content. All file names ending with the "_self" suffix have been created by me in order to understand/execute concepts mentioned in the original file. 
+
+<!--![LangChain Academy](https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/66e9eba1020525eea7873f96_LCA-big-green%20(2).svg)
 
 ## Introduction
 
